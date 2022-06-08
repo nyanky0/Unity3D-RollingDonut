@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 49d1c6a06ae3f0245874e63c61835a18
+timeCreated: 1517085618
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: 0 Med Ved DNA
+  fontNames:
+  - 0 Med Ved DNA
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
